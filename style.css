@@ -1,0 +1,34 @@
+.col {
+    background-color: #91A0A0;
+}
+
+.nav-link {
+    color: #000000;
+}
+
+ul{
+position: absolute;
+width: 1309px;
+
+height: 45px;
+left: calc(50% - 1309px/2 + 221.5px);
+top: 94px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+padding-left: 10px;
+}
+
+img {
+    position: absolute;
+width: 208px;
+height: 150px;
+left: 38px;
+top: 17px;
+padding-right:80px;
+}
